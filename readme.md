@@ -11,4 +11,4 @@
 <li>The industry average salary across all roles and all companies.</li>
 </ul>
 
-<p>Taken from [Codeacademy's tutorial](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/es-6-modules/projects/es6-modules-workaround).</p>
+Taken from [Codeacademy's tutorial](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/es-6-modules/projects/es6-modules-workaround).
